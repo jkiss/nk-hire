@@ -1,0 +1,19 @@
+{
+  "name": "nk-hire",
+  "version": "1.0.0",
+  "description": "Broswer console hire information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jkiss/nk-hire.git"
+  },
+  "keywords": [
+    "console",
+    "hire"
+  ],
+  "author": "Mr.B",
+  "license": "ISC"
+}
