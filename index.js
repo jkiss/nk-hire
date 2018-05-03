@@ -7,6 +7,7 @@
 'use strict'; 
 
 function _log_hire(obj) {
+    obj = obj || {};
     var desc = obj.desc || 'Ever thought about joining us?';
     var url = obj.url || 'https://news.cgtn.com/event/2018/advertise-for-engineers/index.html'
 
@@ -14,3 +15,5 @@ function _log_hire(obj) {
     console.log('%c'+desc, 'font-family:"courier new";color:#b7a457;font-size:24px;font-weight:bold;line-height:22px;');
     console.log(url);
 }
+
+export default _log_hire;
