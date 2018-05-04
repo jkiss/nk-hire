@@ -1,5 +1,7 @@
 # console.log hire ASCII & information
 
+![Display](https://raw.githubusercontent.com/jkiss/nk-hire/master/asset/display.jpg)
+
 ### Install :
 
 ```bash
