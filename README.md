@@ -5,7 +5,7 @@
 ### Install :
 
 ```bash
-$ npm i -D nk-hire
+$ npm i -S nk-hire
 ```
 
 ### Usage :
